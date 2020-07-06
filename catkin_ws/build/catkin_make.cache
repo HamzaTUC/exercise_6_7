@@ -1,0 +1,2 @@
+sjtu-drone
+-DCATKIN_DEVEL_PREFIX=/home/lowe/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lowe/catkin_ws/install -G Unix Makefiles
